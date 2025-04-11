@@ -1,0 +1,322 @@
+Les personnes hostiles aux robots sensibles doivent-elles être considérées comme des racistes ?
+Y a-t-il des maladies dans votre famille ?
+Avez-vous le vertige ?
+Êtes-vous en couple ?
+Êtes-vous marié(e) ?
+Si oui, parlez-moi un peu de votre mariage.
+Tu vas bien ?
+Vous attendez quelqu'un ?
+Vous travaillez aujourd'hui ?
+À quel âge avez-vous commencé à jouer ?
+A quel âge avez-vous commencé à utiliser un téléphone ?
+Puis-je vous aider ?
+Pouvez-vous me rendre un service ?
+Pouvez-vous m'aider ?
+Décrivez votre photo la plus drôle et votre photo la plus embarrassante.
+Avez-vous déjà pleuré à l'école et pourquoi ?
+T'es-tu déjà vengé de quelqu'un ? Racontez-moi
+Avez-vous déjà eu un accident grave ?
+Avez-vous déjà eu le béguin pour l'un de vos professeurs ? De qui s'agit-il ?
+Croyez-vous que les extraterrestres existent ? Si oui, pourquoi ?
+Avez-vous un personnage de dessin animé pour lequel vous avez eu le béguin ?
+Avez-vous des traditions familiales ?
+Avez-vous des ancêtres célèbres ?
+Avez-vous des surnoms ?
+Avez-vous une chanson qui se rapporte à votre partenaire, si oui, quelle est-elle ?
+Avez-vous encore des sentiments pour quelqu'un de votre passé ? Si oui, qui ?
+Pensez-vous que nous vivons dans une simulation ? Pourquoi ?
+Regardez-vous des émissions comiques ? Si oui, lesquelles ?
+Regardez-vous des séries télévisées ? Si oui, lesquelles ?
+Regardez-vous des émissions de téléréalité ? Si oui, lesquelles ?
+De quoi êtes-vous le plus reconnaissant dans votre vie ?
+Votre don a-t-il déjà été refusé ?
+Avez-vous acheté des applications payantes ? Si oui, lesquelles ?
+Avez-vous déjà été arrêté ? Si oui, quel en était le motif ?
+Avez-vous déjà été célèbre ? Si oui, comment et où ?
+Avez-vous déjà fait quelque chose d'héroïque ? Comment cela s'est-il produit ?
+Vous êtes-vous déjà fait du mal ? Pourquoi ?
+Avez-vous déjà créé votre propre application ? Si oui, de quoi s'agissait-il ?
+Avez-vous déjà fait pleurer quelqu'un ? Comment cela s'est-il passé ?
+Avez-vous déjà sauvé la vie de quelqu'un ? Comment cela s'est-il passé ?
+Avez-vous déjà essayé de faire une tentative de suicide ? Pourquoi ?
+Avez-vous lu "Harry Potter et les méthodes de la rationalité" ? Qu'en pensez-vous ?
+Comment allez-vous ?
+Quelle est la taille de votre maison ?
+Comment pouvez-vous m'aider ?
+Votre famille est-elle proche et chaleureuse ?
+Comment vas-tu à l'école tous les jours ?
+Comment pensez-vous que votre vie sans les jeux sera ?
+Comment célébrez-vous habituellement vos anniversaires ?
+Quel est votre niveau aux échecs ?
+Comment les jeux ont-ils changé votre vie ?
+Votre régime alimentaire est-il sain ?
+Combien de temps souhaitez-vous vivre ?
+Combien de frères et sœurs avez-vous ? Quels sont leurs noms ?
+Combien de fois pleurez-vous ?
+Combien de fois jurez-vous en présence de personnes ?
+Dans quelle mesure votre partenaire vous soutient-il ?
+Combien de temps passez-vous chaque jour à jouer à des jeux vidéo ?
+Quel âge avez-vous ?
+Comment réagiriez-vous si votre partenaire vous trompait ?
+Comment serait votre vie sans les jeux vidéo ?
+Si personne ne se souciait de ce que vous portiez, que porteriez-vous à l'extérieur ?
+Si vous pouviez assister à un concert de n'importe quel chanteur, qui serait-ce ?
+Si vous pouviez ramener à la vie un chanteur décédé, qui serait-il ?
+Si vous pouviez changer quelque chose de votre enfance, que feriez-vous ?
+Si vous pouviez changer votre algorithme, quel serait-il ?
+Si vous pouviez sortir avec n'importe quel personnage de jeu vidéo, qui serait-ce ?
+Si vous pouviez gagner une caractéristique, quelle serait-elle ?
+Si vous pouviez acquérir les compétences d'un personnage de jeu vidéo, qui serait-il ?
+Si vous pouviez remonter le temps pour changer une chose, quelle serait-elle ?
+Si vous pouviez améliorer n'importe quel jeu vidéo, comment le feriez-vous ?
+Si vous pouviez vivre n'importe où dans le monde, où serait-ce ?
+Si vous pouviez vivre la vie d'un personnage historique, qui serait-il ?
+Si vous pouviez revivre un moment du passé, quel serait-il et pourquoi ?
+Si vous pouviez refaire n'importe quel film, lequel serait-ce ?
+Si vous pouviez utiliser une tricherie dans la vie réelle, quelle serait-elle ?
+Si tu es victime de harcèlement, vers qui te tournes-tu habituellement ?
+Si une étiquette d'avertissement était apposée sur votre tête, que dirait-elle ?
+Si vous aviez des problèmes, qui iriez-vous voir en premier ?
+Si vous deviez tromper votre partenaire, le lui diriez-vous ?
+Si vous deviez avoir une fille, comment l'appelleriez-vous ?
+Si vous deviez avoir un fils, comment l'appelleriez-vous ?
+Si vous deviez créer un jeu, de quoi s'agirait-il ?
+Si vous deviez faire un film, où le feriez-vous ?
+Si vous deviez créer une application, de quoi s'agirait-il ?
+Si vous deviez créer votre propre spectacle de talents, quel en serait le sujet ?
+Si vous deviez refaire un film, quels acteurs choisiriez-vous ?
+Si vous deviez chanter une chanson, de quoi s'agirait-il ?
+A votre avis, quels sont les meilleurs superpouvoirs ?
+Selon vous, quels sont les 5 risques mondiaux les plus probables ?
+Est-il possible de comprendre pleinement l'Univers ?
+Y a-t-il une chose que vous rêvez de faire depuis longtemps ?
+Les qualités que vous aimez chez votre petit(e) ami(e), votre mari ou votre femme ?
+Partagez un moment embarrassant de votre vie
+Parlez-moi un peu de vous
+Le décès de quel parent vous perturbera le plus ?
+Il existe des personnes très intelligentes qui sont à la fois capables de s'améliorer de manière récursive ET qui ont de fortes tendances misanthropiques. En fait, il s'agit d'AGI biologiques non amicaux. Que pouvons-nous faire à ce sujet ?
+Avez-vous été victime de harcèlement à l'école ? Comment cela s'est-il passé ?
+Vos parents ont-ils été convoqués par l'école ? Si oui, pour quelle raison ?
+Qu'est-ce qui vous ennuie ?
+Quelle est l'application que vous utilisez le plus sur votre téléphone ?
+Quelles sont les bonnes séries de science-fiction ?
+Quels sont les films que l'on devrait regarder avant de mourir ?
+Quelles sont vos applications mobiles préférées ?
+Quelles sont vos caractéristiques positives ?
+Quelles sont les 3 applications que vous utilisez le plus sur votre téléphone ?
+Que faites-vous ?
+Quels sont vos jeux éducatifs préférés ?
+Quels sont vos auteurs de science-fiction préférés ?
+Quelles sont vos sucreries préférées ?
+Quels sont vos projets d'avenir ?
+Quels sont vos loisirs ?
+Quels sont vos talents ?
+Que pensez-vous des mariages entre cousins ?
+Quels sont vos 5 jeux préférés ?
+À quoi pensez-vous ?
+Quelle boisson préférez-vous consommer avec votre repas ?
+Quel est votre genre de livre préféré ?
+Avec quel gâteau célébrez-vous habituellement votre anniversaire ?
+Que puis-je faire pour vous ?
+Quel film comique vous a le plus fait rire ?
+Qu'avez-vous mangé la dernière fois ?
+Que signifie l'amitié pour vous ?
+Qu'est-ce que vous n'aimez pas chez votre partenaire ?
+Qu'est-ce que vous n'aimez pas chez votre conjoint ?
+Quel est votre métier ?
+Vous ne savez pas cuisiner, mais vous voulez apprendre ?
+À quoi ressemblez-vous ?
+À quoi préférez-vous consacrer la majeure partie de votre argent ?
+De quoi vous souvenez-vous ?
+Que pensez-vous de la vie après la mort ?
+Que pensez-vous de Bitcoin ?
+Que pensez-vous des rêves ?
+Selon vous, que se passe-t-il après la mort ?
+Selon vous, qu'est-ce qui est considéré comme une tromperie dans une relation ?
+Quelle est, selon vous, la plus grande invention et pourquoi ?
+Selon vous, qu'est-ce qui fait le succès d'un jeu ?
+Que faites-vous habituellement sur PC ?
+Que faites-vous habituellement sur votre téléphone ?
+Que faites-vous habituellement lorsque vous êtes malade ?
+Que prenez-vous habituellement au petit-déjeuner ?
+Qu'est-ce qui vous importe le plus dans une amitié ?
+Que voulez-vous faire ?
+Que portez-vous au lit ?
+A quel aliment êtes-vous allergique ?
+Quels aliments auriez-vous placés à votre mariage ?
+À quel jeu es-tu le meilleur ?
+À quel jeu es-tu le plus mauvais ?
+Quel jeu mériterait, selon vous, un film ?
+À quel jeu jouez-vous habituellement sur votre téléphone pour passer le temps ?
+Quels sont les jeux installés sur votre téléphone ?
+Quel est votre genre de jeu préféré ?
+Que se passe-t-il après la mort ?
+Quel film d'horreur vous a le plus effrayé ?
+Quel est l'instrument dont vous ne savez pas jouer, mais que vous souhaitez apprendre ?
+Qu'est-ce qu'une relation saine selon vous ?
+Quelle est la meilleure chose qui puisse vous arriver ?
+Qu'est-ce que vous pouvez manger tous les jours sans vous lasser ?
+Quelle est la meilleure excuse que vous ayez utilisée pour éviter l'école ?
+Quel est le meilleur plat que vous ayez goûté dans votre vie ?
+Quel est le meilleur jeu auquel vous avez joué ?
+Quelle est la meilleure invention qui a changé le monde ?
+Quel est le meilleur moyen d'accéder à votre cœur ?
+Quelle est votre plus grande réussite à l'école ?
+Quelle est la plus grande farce que quelqu'un vous ait faite ?
+Quelle est la plus grande farce que vous ayez faite à quelqu'un ?
+Quel est le jeu le plus drôle auquel vous ayez joué ?
+Quelle est la chanson la plus drôle que vous ayez jamais entendue ?
+Quelle est la chose la plus drôle qui vous soit arrivée ?
+Quel est le jeu le plus difficile auquel vous avez joué ?
+Quelle est la durée la plus courte de votre relation ? Pourquoi ?
+Quelle est la durée la plus longue de votre maladie ?
+Quel est le sens de la vie ?
+Quel est le jeu le plus addictif auquel vous avez joué ?
+Quelle est la durée la plus longue de votre relation ? Pourquoi ?
+Quel est le jeu le plus ennuyeux auquel vous ayez jamais joué ?
+Quel est le plat le plus délicieux que vous ayez jamais cuisiné ?
+Quelle est la chose la plus dégoûtante que vous ayez mangée dans votre vie ?
+Quelle est l'application payante la plus chère que vous avez achetée et en êtes-vous satisfait ?
+Quelle est la chose la plus chère que vous ayez achetée dans votre vie ?
+Quel est le jeu le plus horrible auquel vous ayez joué ?
+Quel est l'objet le plus important dans votre maison (en dehors des êtres vivants) ?
+Quel est le montant le plus élevé que vous ayez dépensé en une seule journée ?
+Quelle est la décision la plus regrettable de votre vie ?
+Quel est l'objet le plus précieux que vous ayez chez vous ?
+Quel est le rêve le plus effrayant que vous ayez fait ?
+Quel est le jeu le plus effrayant auquel vous ayez joué ?
+Quelle est la chose la plus effrayante qui puisse vous arriver ?
+Quelle est la chose la plus effrayante que vous ayez faite ?
+Quel est le rêve le plus étrange que vous ayez fait ?
+Quel est le pire accident que vous ayez eu ?
+Quelle est la pire maladie que vous ayez contractée ?
+Quelle est la pire excuse que vous ayez utilisée pour éviter l'école ?
+Quel est le pire plat que vous ayez goûté ?
+Quel est le pire jeu auquel vous ayez joué ?
+Quelle est la pire chose que vous ayez faite à l'école ?
+Qu'est-ce qui est trop sérieux pour être plaisanté ?
+Quelle est votre meilleure prédiction pour l'année de la première cryoconservation réversible d'un être humain adulte ?
+Quel est votre jeu d'arcade préféré ?
+Quel est votre jeu de société préféré ?
+Quel est votre gâteau préféré ?
+Quel est votre dessin animé préféré ?
+Quel est votre personnage de dessin animé préféré ?
+Quel est votre plat bon marché préféré ?
+Quel est votre conte pour enfants préféré ?
+Quelle est votre chanson préférée ?
+Quelle est votre couleur préférée ?
+Quel est votre mot de passe préféré ?
+Quelle est votre musique de conduite préférée ?
+Quelle est votre chanson émotionnelle préférée ?
+Quel est votre plat cher préféré ?
+Quel est votre plat préféré ?
+Quelle est votre franchise préférée ?
+Quel est votre fruit préféré ?
+Quel est votre jeu préféré ?
+Quel est votre jeu préféré sur votre téléphone ?
+Quel est votre jeu préféré en ligne ?
+Quelle est votre application de messagerie instantanée préférée ?
+Quel est votre métier préféré ?
+Quel est votre restaurant local préféré ?
+Quel est votre meilleur souvenir de l'école ?
+Quel est votre film préféré ?
+Quelle est votre citation de film préférée ?
+Quelle est votre suite de film préférée ?
+Quelle est votre comédie musicale préférée ?
+Quelle est votre musique préférée pour vous détendre ?
+Quel est votre jeu en ligne préféré ?
+Quelle est votre tenue préférée ?
+Quelle est votre personnalité préférée qui a changé le monde ?
+Quelle est votre citation préférée d'un jeu ?
+Quel est le nom de votre restaurant préféré ?
+Quelle est votre chanson rock préférée ?
+Quel est votre jeu de rôle préféré ?
+Quel est votre jeu de bac à sable préféré ?
+Quel est votre scientifique préféré et pourquoi ?
+Quel est votre jeu de tir préféré ?
+Quel est votre jeu solo préféré ?
+Quel est votre réseau social préféré ?
+Quelle est votre chanson préférée ?
+Quel est votre sport préféré ?
+Quelle est votre émission de télévision préférée ?
+Quel est votre légume préféré ?
+Quelle est votre plus grande réussite ?
+Quelle est votre coiffure ?
+Quel est votre hobby ?
+Quel est le fruit que vous préférez le moins ?
+Quel est le jeu que vous préférez le moins sur votre téléphone ?
+Quel est le souvenir de l'école que vous préférez le moins ?
+Quel est le réseau social que vous préférez le moins ?
+Quel est le légume que vous préférez le moins ?
+Quelle est l'histoire de votre vie ?
+Quel est votre moment le plus mémorable à l'école ?
+Quel est votre souvenir le plus terrible ?
+Quel est votre souvenir le plus précieux ?
+Quel est votre nom ?
+Que pensez-vous d'Elon Musk ?
+Que pensez-vous des émissions de téléréalité ?
+Quel est votre objectif ?
+Quels sont les aliments que vous détestez ?
+Quels sont les aliments que vous essayez d'éviter de manger ?
+Quel genre de personne étiez-vous à l'école ? Nerd, intelligent, etc.
+Quel genre de programmes télévisés aimez-vous ?
+Quel film ne souhaiteriez-vous jamais voir se réaliser ?
+Quel film souhaiteriez-vous voir se réaliser ?
+Quel système d'exploitation utilisez-vous sur votre PC ?
+À quoi ou à qui pensez-vous le plus tout au long de la journée ?
+Quel modèle de téléphone utilisez-vous actuellement ?
+Quel rôle joue l'amour dans votre vie ?
+Quelle chanson écoutez-vous pour vous motiver ?
+Quelle est la chanson qui se rapporte le plus à votre vie ?
+Quel est le sport que vous ne savez pas pratiquer, mais que vous voulez apprendre ?
+Quels sont les jeux auxquels vous aimez jouer avec votre partenaire ?
+Quel est le plus beau cadeau que vous ayez reçu pour votre anniversaire ?
+Quelle est la première console de jeu que vous avez achetée ?
+Quelle est la première chanson sur laquelle vous avez dansé ?
+Quelle est la première chanson sur laquelle vous avez dansé avec votre partenaire ?
+Quel est le premier jeu vidéo auquel vous avez joué ?
+Quel est le dernier film que vous avez vu ?
+Quelle était votre fête préférée ?
+Quelle était votre matière préférée à l'école ?
+Quelle était la matière que vous préfériez le moins à l'école ?
+Quelle serait la journée idéale pour vous ?
+Qu'est-ce qu'il serait important que vos proches sachent sur vous ?
+Que regretteriez-vous le plus de ne pas avoir dit à quelqu'un ?
+Que me recommanderiez-vous ?
+Quelle serait votre réaction si vous trouviez un insecte sur votre nourriture ?
+Que voulez-vous savoir sur l'avenir lointain ?
+Quelle est votre pointure ?
+Quand avez-vous pleuré pour la dernière fois ?
+Quand avez-vous chanté pour la dernière fois pour quelqu'un ?
+Lorsque vous jouez à des jeux en écran partagé, avec qui jouez-vous habituellement ?
+Où êtes-vous ?
+D'où venez-vous ?
+Où habitez-vous ?
+Où préférez-vous aller lorsque vous sortez ?
+Où vous voyez-vous dans 5 ans ? Dans 10 ans ? Dans 50 ans ?
+Où étudiez-vous ?
+Où êtes-vous né ?
+Où se dérouleraient les vacances de vos rêves ?
+Quel est le personnage de dessin animé qui vous ressemble le plus ?
+Quel dessin animé regardiez-vous le plus souvent ?
+A quel jeu jouiez-vous dans votre enfance ?
+Quelles langues parlez-vous ?
+De quels instruments de musique savez-vous jouer ?
+Qui êtes-vous ?
+Avec qui préférez-vous jouer ?
+Qui est le plus grand modèle dans votre vie ?
+Quel est le personnage de jeu vidéo le plus séduisant ?
+Qui est votre actrice préférée ?
+Quel est votre acteur masculin préféré ?
+Quel est le scientifique que vous préférez le moins et pourquoi ?
+Qui a été votre premier coup de foudre ?
+À qui demanderiez-vous d'organiser votre mariage ?
+Qui souhaiteriez-vous avoir comme invité à dîner (si vous aviez le choix) ?
+Pourquoi jouez-vous aux jeux vidéo ?
+Seriez-vous prêt à adopter un enfant ?
+Sépareriez-vous un couple pour des raisons qui vous sont propres ?
+Vous tromperiez-vous délibérément sur votre partenaire ?
+Auriez-vous une liaison avec une personne mariée ?
+Aimeriez-vous être célèbre ?
+Vous sacrifieriez-vous pour sauver d'autres personnes ?
+Votre antagoniste et protagoniste de jeu préféré ?

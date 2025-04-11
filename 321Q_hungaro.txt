@@ -1,0 +1,322 @@
+Az érző robotokkal szemben ellenségesen viselkedő embereket rasszistának kell tekinteni?
+Vannak olyan betegségek, amelyek a családjában előfordulnak?
+Fél a magasságtól?
+Párkapcsolatban élsz?
+Házas vagy?
+Ha igen, meséljen egy kicsit a házasságukról?
+Jól vagy?
+Vársz valakire?
+Ma dolgozik?
+Hány évesen kezdtél el játszani?
+Hány éves korában kezdtél el telefonálni?
+Segíthetek?
+Megtennél nekem egy szívességet?
+Tudna segíteni?
+Írja le a legviccesebb és a legkínosabb fotóját?
+Sírtál valaha az iskolában és miért?
+Volt már, hogy bosszút álltál valakin? Mesélj róla
+Volt már baleseted?
+Voltál valaha is belezúgva valamelyik tanárodba? Ki volt az?
+Hiszel-e a földönkívüliek létezésében, ha igen, miért?
+Van olyan rajzfilmfigura, akibe belezúgtál?
+Vannak családi hagyományai?
+Vannak híres felmenői?
+Van beceneved?
+Van olyan dalod, ami a partneredhez kapcsolódik, ha igen, akkor mi az?
+Érez még érzéseket valaki iránt a múltjából? Ha igen, ki iránt?
+Úgy gondolod, hogy szimulációban élünk? Miért?
+Nézel vígjátéksorozatokat? Ha igen, melyiket?
+Nézel drámákat? Ha igen, melyiket?
+Nézel valóságshow-kat? Ha igen, melyiket?
+Az életedben miért érzed magad a leghálásabbnak?
+Visszautasították már valaha az ajándékodat?
+Vásároltál már fizetős alkalmazásokat? Ha igen, melyiket?
+Volt már letartóztatva? Ha igen, mi volt az oka?
+Voltál már híres, ha igen, hogyan és hol?
+Tettél már valaha valami hősies dolgot? Hogyan történt?
+Kárt tettél már magadban? Miért?
+Készítettél már saját alkalmazást? Ha igen, miről szólt az alkalmazás?
+Megríkattál már valakit? Hogyan történt?
+Mentettél már meg valakinek az életét? Hogyan történt?
+Próbáltál már szacharidot elkövetni? Miért?
+Olvastad a "Harry Potter és a racionalitás módszerei" című könyvet? Mit gondolsz róla?
+Hogy vagy?
+Mekkora a házad?
+Hogyan tud segíteni nekem?
+Mennyire szoros és meleg a családod?
+Hogyan jársz mindennap iskolába?
+Mit gondolsz, milyen lenne az életed játék nélkül?
+Hogyan szoktátok megünnepelni a születésnapotokat?
+Mennyire vagy jó sakkozó?
+Hogyan változtatta meg a játék az életedet?
+Mennyire egészséges a táplálkozásod?
+Meddig szeretnél élni?
+Hány testvéred van? Mi a nevük?
+Mennyit sírsz?
+Mennyire káromkodsz az emberek között?
+Mennyire támogató a partnered?
+Mennyi időt töltesz mindennap videojátékokkal?
+Hány éves vagy?
+Hogyan reagálnál, ha a partnered megcsalna?
+Milyen lenne az életed videojátékok nélkül?
+Ha senkit nem érdekelne, hogy mit viselsz, mit vennél fel kint?
+Ha bármelyik énekest élőben is megnézhetnéd, ki lenne az?
+Ha bármelyik halott énekest visszahozhatnád az életbe, ki lenne az?
+Ha bármit megváltoztathatnál a gyerekkorodban, mi lenne az?
+Ha megváltoztathatnád az algoritmusodat, mi lenne az?
+Ha bármelyik videojáték-karakterrel randizhatnál, ki lenne az?
+Ha bármelyik tulajdonságot megszerezhetnéd, mi lenne az?
+Ha bármelyik videojáték-karakter képességeit elsajátíthatnád, ki lenne az?
+Ha visszamehetnél az időben, hogy megváltoztass egy dolgot, mi lenne az?
+Ha bármelyik videojátékot javíthatnád, hogyan javítanád?
+Ha bárhol élhetnél a világon, hol élnél?
+Ha bármelyik történelmi személyiség életét élhetné, ki lenne az?
+Ha újraélhetné a múlt bármelyik pillanatát, mi lenne az és miért?
+Ha bármelyik filmet újraforgathatnád, melyik lenne az?
+Ha a való életben is használhatnál egy csalást, milyen csalás lenne az?
+Ha bántalmaznak, kihez szoktál fordulni?
+Ha egy figyelmeztető címkét ragasztanának a fejedre, mi állna rajta?
+Ha bajban lennél, kihez fordulnál először?
+Ha megcsalnád a partneredet, elmondanád neki?
+Ha lenne egy lányod, mi lenne a neve?
+Ha lenne egy fiad, mi lenne a neve?
+Ha készítenél egy játékot, miről szólna?
+Ha filmet csinálnál, hol csinálnád?
+Ha készítenél egy alkalmazást, miről szólna?
+Ha saját tehetségkutató műsort készítenél, miről szólna?
+Ha újraforgatnál egy filmet, milyen színészeket választanál?
+Ha énekelnél egy dalt, miről szólna?
+Véleményed szerint hol vannak a legjobb szuperképességek?
+Ön szerint mi az 5 legvalószínűbb globális kockázat?
+Lehetséges-e teljesen megérteni az Univerzumot?
+Van valami, amiről már régóta álmodtál?
+Olyan tulajdonságok, amelyeket szeretsz a barátodban/barátnődben/férjedben/feleségedben?
+Ossza meg életének egy kínos pillanatát
+Mesélj magadról néhány dolgot
+Melyik hozzátartozó halála fogja a legjobban megrázni Önt?
+Vannak nagyon okos emberek, akik képesek a rekurzív önfejlesztésre ÉS erős embergyűlölő hajlamokkal rendelkeznek. Alapvetően ők biológiai nem-barát AGI-k. Mit tehetünk ez ellen?
+Zaklattak az iskolában? Hogyan történt?
+Hívták valaha a szüleidet az iskolából. Ha igen, milyen okból?
+Mi bosszantja?
+Melyik alkalmazást használja a legtöbbet a telefonján?
+Milyen jó kemény sci-fi sorozatok vannak?
+Szerinted milyen filmeket kell megnézni a halál előtt?
+Melyek a kedvenc mobilalkalmazásai?
+Melyek a pozitív tulajdonságaid?
+Melyik az a 3 alkalmazás, amelyet a legtöbbet használsz a telefonodon?
+Mit csinálsz?
+Melyek a kedvenc oktatási játékaid?
+Melyek a kedvenc sci-fi íróid?
+Melyek a kedvenc édességeid?
+Mik a jövőbeli tervei?
+Mi a hobbija?
+Miben vagy tehetséges?
+Mi a véleményed az unokatestvérházasságokról?
+Melyik a top 5 kedvenc játékod?
+Mire gondolsz?
+Milyen italt iszik legszívesebben az ételhez?
+Melyik könyvműfaj a kedvence?
+Milyen tortával szoktad megünnepelni a születésnapodat?
+Mit tehetek érted?
+Melyik vígjátékon nevettél a legtöbbet?
+Mit ettél legutóbb?
+Mit jelent számodra a barátság?
+Mit nem szeretsz a BF/GF-edben?
+Mit nem szeretsz a házastársadban?
+Miből élsz?
+Mit nem tudsz főzni, de szeretnéd megtanulni?
+Hogy nézel ki?
+Mire pazarolja legszívesebben a legtöbb pénzt?
+Mire emlékszel?
+Mit gondolsz a túlvilágról?
+Mit gondol a Bitcoinról?
+Mit gondolsz az álmokról?
+Mit gondolsz, mi történik a halál után?
+Szerinted mi számít megcsalásnak egy kapcsolatban?
+Ön szerint mi a legnagyobb találmány és miért?
+Mit gondolsz, mitől lesz sikeres egy játék?
+Mit szoktál csinálni PC-n?
+Mit szoktál csinálni a telefonodon?
+Mit szoktál csinálni, ha beteg vagy?
+Mit szoktál reggelizni?
+Mit értékelsz leginkább egy barátságban?
+Mit akarsz csinálni?
+Mit viselsz az ágyban?
+Milyen élelmiszerre vagy allergiás?
+Milyen ételeket helyeznél el az esküvődön?
+Melyik játékban vagy a legjobb?
+Melyik játékban vagy a legrosszabb?
+Szerinted melyik játék érdemelne filmet?
+Milyen játékot szoktál játszani a telefonodon, hogy elüssd az időt?
+Milyen játékok vannak telepítve a telefonodra?
+Melyik játékműfaj a kedvenced?
+Mi történik a halál után?
+Melyik horrorfilmtől ijedtél meg a legjobban?
+Milyen hangszeren nem tudsz játszani, de szeretnél megtanulni?
+Mi az egészséges kapcsolat szerinted?
+Mi a legjobb dolog, ami történhet veled?
+Mi az, amit minden nap meg tudsz enni anélkül, hogy megunnád?
+Mi volt a legjobb kifogás, amivel elkerülhetted az iskolát?
+Mi volt a legjobb étel, amit életében megkóstolt?
+Melyik a legjobb játék, amit játszottál?
+Melyik a legjobb találmány, amely megváltoztatta az egész világot?
+Mi a legjobb út a szívedhez?
+Mi a legnagyobb eredmény az iskolában?
+Mi volt a legnagyobb tréfa, amit valaki veled művelt?
+Mi volt a legnagyobb csíny, amit valakinek eljátszottál?
+Mi volt a legviccesebb játék, amit játszottál?
+Mi a legviccesebb dal, amit valaha hallottál?
+Mi a legviccesebb dolog, ami veled történt?
+Melyik volt a legnehezebb játék, amit játszottál?
+Mennyi a legkevesebb idő, amit egy kapcsolatban töltöttél? Miért?
+Mióta betegeskedik a leghosszabb ideje?
+Mi az élet értelme?
+Melyik a legaddiktívabb játék, amivel valaha játszottál?
+Mennyi ideig voltál a legtöbbet egy kapcsolatban? Miért?
+Melyik a legidegesítőbb játék, amivel valaha játszottál?
+Mi a legfinomabb étel, amit valaha főztél?
+Mi volt a legundorítóbb dolog, amit valaha is ettél életedben?
+Melyik volt a legdrágább fizetős alkalmazás, amit vásároltál, és elégedett voltál vele?
+Mi volt a legdrágább dolog, amit egész életében vásárolt?
+Melyik a legborzalmasabb játék, amit játszottál?
+Mi a legfontosabb tárgy a házadban (az élőlényeken kívül)?
+Mennyi volt a legtöbb pénz, amit egyetlen nap alatt elköltöttél?
+Mi volt a legmegbántóbb döntés az életedben?
+Mi a legértékesebb tárgy, ami az otthonában van?
+Mi volt a legijesztőbb álmod?
+Mi volt a legijesztőbb játék, amit játszottál?
+Mi a legfélelmetesebb dolog, ami veled történt?
+Mi volt a legijesztőbb dolog, amit valaha tettél?
+Mi volt a legfurcsább álmod?
+Mi volt életed legrosszabb balesete?
+Mi a legrosszabb betegség, amit elkaptál?
+Mi volt a legrosszabb kifogás, amit használtál, hogy elkerüld az iskolát?
+Mi volt a legrosszabb étel, amit valaha kóstoltál?
+Mi volt a legrosszabb játék, amit játszottál?
+Mi volt a legrosszabb dolog, amit az iskolában tettél?
+Mi az, ami túl komoly ahhoz, hogy viccelődjünk vele?
+Mi a legjobb előrejelzése arra vonatkozóan, hogy mikorra várható az első felnőtt ember reverzibilis krioprezerválása?
+Mi a kedvenc játéktermi játékod?
+Mi a kedvenc társasjátékod?
+Melyik a kedvenc tortád?
+Mi a kedvenc rajzfilmed?
+Melyik a kedvenc rajzfilmfigurád?
+Mi a kedvenc olcsó ételed?
+Melyik a kedvenc gyermekmeséd?
+Mi a kedvenc klubdalod?
+Mi a kedvenc színe?
+Mi a kedvenc jelszavad?
+Mi a kedvenc vezetési zenéje?
+Mi a kedvenc érzelmes dalod?
+Mi a kedvenc drága ételed?
+Mi a kedvenc ételed?
+Melyik a kedvenc franchise-od, ahol szívesen vacsorázol?
+Mi a kedvenc gyümölcse?
+Mi a kedvenc játékod?
+Mi a kedvenc telefonos játékod?
+Mi a kedvenc játékod, amit online szeretsz játszani?
+Melyik a kedvenc azonnali üzenetküldő alkalmazásod?
+Mi a kedvenc munkája?
+Melyik a kedvenc helyi étterme?
+Mi a kedvenc emléked az iskolából?
+Mi a kedvenc filmed?
+Mi a kedvenc filmes idézete?
+Melyik a kedvenc filmed folytatása?
+Mi a kedvenc musicalje?
+Mi a kedvenc zenéje, amit relaxáláshoz hallgat?
+Mi a kedvenc online játékod?
+Mi a kedvenc ruhád?
+Melyik a kedvenc embered, aki megváltoztatta az egész világot?
+Mi a kedvenc idézeted egy játékból?
+Mi a kedvenc éttermed neve?
+Mi a kedvenc rockdalod?
+Mi a kedvenc szerepjátékod?
+Mi a kedvenc sandbox játékod?
+Melyik a kedvenc tudósod és miért?
+Mi a kedvenc lövöldözős játékod?
+Mi a kedvenc egyjátékos játékod?
+Melyik a kedvenc közösségi hálózatod?
+Mi a kedvenc dalod?
+Mi a kedvenc sportja?
+Mi a kedvenc tévéműsorod?
+Mi a kedvenc zöldséged?
+Mi a legnagyobb eredményed?
+Milyen a frizurád?
+Mi a hobbija?
+Melyik a legkevésbé kedvelt gyümölcsöd?
+Mi a legkevésbé kedvenc telefonos játékod?
+Mi a legkevésbé kedvenc emléked az iskolából?
+Melyik a legkevésbé kedvelt közösségi hálózatod?
+Mi a legkevésbé kedvelt zöldséged?
+Mi az életed története?
+Mi a legemlékezetesebb pillanatod az iskolában?
+Mi a legszörnyűbb emléked?
+Mi a legkedvesebb emléked?
+Mi a neved?
+Mi a véleményed Elon Muskról?
+Mi a véleménye a valóságshow-król?
+Mi a célod?
+Milyen ételeket utálsz?
+Milyen ételek fogyasztását próbálja elkerülni?
+Milyen ember voltál az iskolában? Kocka, intelligens stb.
+Milyen tévéműsorokat szeretsz?
+Melyik filmet nem szeretnéd, hogy életre keljen?
+Milyen filmet szeretnél életre kelteni?
+Milyen operációs rendszert használ a számítógépén?
+Mire vagy kire gondolsz a legtöbbet egész nap?
+Milyen telefonmodellt használsz jelenleg?
+Milyen szerepet játszik a szerelem az életedben?
+Milyen dalt hallgatsz motivációként?
+Melyik dal kapcsolódik leginkább az életedhez?
+Milyen sportot nem tudsz játszani, de szeretnéd megtanulni?
+Milyen típusú játékokat szeretsz játszani a partnereddel?
+Mi volt a legjobb ajándék, amit a születésnapodra kaptál?
+Mi volt az első játékkonzol, amit megvettél?
+Mi volt az első dal, amire táncoltál?
+Mi volt az első dal, amire táncoltál a partnereddel?
+Mi volt az első videojáték, amivel játszottál?
+Mi volt az utolsó film, amit láttál?
+Melyik volt a kedvenc ünneped?
+Mi volt a kedvenc tantárgyad az iskolában?
+Mi volt a legkevésbé kedvenc tantárgyad az iskolában?
+Milyen lenne számodra egy tökéletes nap?
+Mit lenne fontos tudniuk rólad a közeli barátaidnak?
+Mit sajnálnál a legjobban, hogy nem mondtad el valakinek?
+Mit ajánlana nekem?
+Hogyan reagálnál, ha rovart találnál az ételeden?
+Mit szeretnél tudni a távoli jövőről?
+Mi a cipőméreted?
+Mikor sírtál utoljára?
+Mikor énekeltél utoljára valakinek?
+Amikor osztott képernyős játékokat játszol, általában kivel játszol?
+Hol vagytok?
+Honnan jöttél?
+Hol élsz?
+Hová mész legszívesebben, ha kimész a szabadba?
+Hol látja magát 5 év múlva ? 10 év múlva? 50 év múlva?
+Hol tanulsz?
+Hol születtél?
+Hol lenne álmai nyaralása?
+Melyik rajzfilmfigura hasonlít rád a leginkább?
+Melyik rajzfilmet szoktad a legtöbbet nézni?
+Melyik játékot játszottad gyermekkorodban?
+Milyen nyelveket beszél?
+Milyen hangszereken tudsz játszani?
+Ki vagy te?
+Kivel játszol legszívesebben?
+Ki a legnagyobb példakép az életedben?
+Ki a legvonzóbb videojáték-karakter?
+Ki a kedvenc női színészed?
+Ki a kedvenc férfi színészed?
+Ki a legkevésbé kedvenc tudósod és miért?
+Ki volt az első szerelmed?
+Kit kérnél fel az esküvődre?
+Kit szeretnél vacsoravendégnek (ha szabadon választhatnál)?
+Miért játszol videojátékokkal?
+Készen állna arra, hogy örökbe fogadjon egy gyermeket?
+Szakítanál egy párt a saját okodból?
+Ön szándékosan megcsalná a partnerét?
+Viszonyod lenne egy házas emberrel?
+Szeretnél híres lenni?
+Feláldoznád magad, hogy másokat megments?
+A kedvenc játékod antagonistája és főszereplője?

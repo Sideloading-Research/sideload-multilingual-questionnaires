@@ -1,0 +1,322 @@
+As pessoas que são hostis em relação a robots sensíveis devem ser consideradas racistas?
+Existe alguma doença na sua família?
+Tem medo das alturas?
+Está numa relação?
+É casado?
+Em caso afirmativo, fale-me um pouco do seu casamento?
+Estás bem?
+Está à espera de alguém?
+Está a trabalhar hoje?
+Com que idade começaste a jogar?
+Com que idade começou a utilizar o telemóvel?
+Posso ajudar-vos?
+Can you do me a favor?
+Podem ajudar-me?
+Descreva a sua fotografia mais engraçada e a sua fotografia mais embaraçosa.
+Alguma vez choraste na escola e porquê?
+Alguma vez te vingaste de alguém? Conta-me isso
+Alguma vez tiveste um acidente grave?
+Alguma vez tiveste uma paixoneta por algum dos teus professores? Quem foi?
+Acredita que os extraterrestres existem? Se sim, porquê?
+Tens alguma personagem de desenhos animados por quem tenhas tido uma paixoneta?
+Tem alguma tradição familiar?
+Tem alguns antepassados famosos?
+Tem alguma alcunha?
+Tens alguma canção que se relacione com o teu parceiro?
+Ainda sentes alguma coisa por alguém do teu passado? Se sim, por quem?
+Acha que estamos a viver numa simulação? Porquê?
+Vê programas de comédia? Se sim, quais?
+Vê dramas? Se sim, quais?
+Vê reality shows? Se sim, quais?
+Pelo que é que se sente mais grato na sua vida?
+O seu presente já foi rejeitado?
+Comprou alguma aplicação paga? Se sim, quais?
+Já foi detido? Em caso afirmativo, qual foi o motivo?
+Já foi famoso, se sim, como e onde?
+Alguma vez fizeste algo heroico? Como é que isso aconteceu?
+Alguma vez se magoou a si próprio? Porquê?
+Já alguma vez criaste uma aplicação por ti próprio? Se sim, qual era o tema da aplicação?
+Alguma vez fizeste alguém chorar? Como é que isso aconteceu?
+Alguma vez salvaste a vida de alguém? Como é que isso aconteceu?
+Alguma vez tentaste cometer suicídio? Porquê?
+Já leste "Harry Potter e os Métodos da Racionalidade"? O que é que acha do livro?
+Como é que está?
+Qual é o tamanho da vossa casa?
+Como é que me podem ajudar?
+Quão próxima e calorosa é a sua família?
+Como é que vai para a escola todos os dias?
+Como achas que seria a tua vida sem jogos?
+Como é que celebram normalmente os vossos aniversários?
+És bom a jogar xadrez?
+Como é que o jogo mudou a sua vida?
+Quão saudável é a sua dieta?
+Quanto tempo gostaria de viver?
+Quantos irmãos tens? Quais são os seus nomes?
+Quanto é que chora?
+Quanto é que pragueja ao pé das pessoas?
+Qual é o grau de apoio do seu parceiro?
+Quanto tempo passa todos os dias a jogar videojogos?
+Que idade tens?
+Como reagiria se o seu parceiro o traísse?
+Como seria a sua vida sem os jogos de vídeo?
+Se ninguém se importasse com o que vestias, o que usarias na rua?
+Se pudesse assistir ao vivo a qualquer cantor, quem seria?
+Se pudesses ressuscitar um cantor morto, quem seria?
+Se pudesses mudar alguma coisa na tua infância, o que seria?
+Se pudesses mudar o teu algoritmo, qual seria?
+Se pudesses namorar com qualquer personagem de videojogos, quem seria?
+Se pudesse ganhar uma caraterística, qual seria?
+Se pudesses adquirir as capacidades de qualquer personagem de videojogos, quem seria?
+Se pudesse voltar atrás no tempo para mudar uma coisa, o que é que mudaria?
+Se pudesses melhorar qualquer jogo de vídeo, como o farias?
+Se pudesse viver em qualquer parte do mundo, onde seria?
+Se pudesses viver a vida de qualquer pessoa histórica, quem seria?
+Se pudesse reviver qualquer momento do passado, qual seria e porquê?
+Se pudesses fazer um remake de qualquer filme, qual seria?
+Se pudesses usar uma batota na vida real, que batota seria?
+Se fores vítima de bullying, a quem costumas recorrer?
+Se tivesses uma etiqueta de aviso colada à tua cabeça, o que diria?
+Se estivesses em apuros, a quem recorrerias primeiro?
+Se traísses o teu parceiro, contar-lhe-ias?
+Se tivesses uma filha, que nome lhe darias?
+Se tivesses um filho, que nome lhe darias?
+Se tivesses de criar um jogo, qual seria o tema?
+Se fosses fazer um filme, onde é que o farias?
+Se tivesses de criar uma aplicação, qual seria o seu tema?
+Se tivesses de fazer um espetáculo de talentos, qual seria o tema?
+Se fosse fazer um remake de um filme, que actores escolheria?
+Se fosses cantar uma canção, qual seria o tema?
+Na tua opinião, quais são os melhores superpoderes?
+Na sua opinião, quais são os 5 riscos globais mais prováveis?
+É possível compreender totalmente o Universo?
+Há alguma coisa que sonhaste fazer durante muito tempo?
+Qualidades que gosta no seu namorado/namorada/marido/esposa?
+Partilhe um momento embaraçoso da sua vida
+Diga-me algumas coisas sobre si
+A morte de que familiar será a mais perturbadora para si?
+Há algumas pessoas muito inteligentes que são capazes de se auto-aperfeiçoarem recursivamente e têm fortes tendências misantrópicas. Basicamente, são AGIs biológicos não amigáveis. O que é que podemos fazer em relação a isso?
+Foste vítima de bullying na escola? Como é que isso aconteceu?
+Os seus pais foram alguma vez contactados pela escola? Em caso afirmativo, por que motivo?
+O que é que o incomoda?
+Qual é a aplicação que mais utiliza no seu telemóvel?
+Quais são algumas boas séries de ficção científica?
+Quais são alguns dos filmes que acha que se devem ver antes de morrer?
+Quais são algumas das suas aplicações móveis favoritas?
+Quais são algumas das suas caraterísticas positivas?
+Quais são as 3 aplicações que mais utiliza no seu telemóvel?
+O que é que estão a fazer?
+Quais são os teus jogos educativos favoritos?
+Quais são os seus escritores de ficção científica preferidos?
+Quais são os seus doces preferidos?
+Quais são os seus planos para o futuro?
+Quais são os seus passatempos?
+Quais são os seus talentos?
+Qual é a sua opinião sobre os casamentos entre primos?
+Quais são os teus 5 jogos favoritos?
+Em que é que está a pensar?
+Que bebida prefere beber com a sua comida?
+Qual é o seu género de livro preferido?
+Com que bolo celebra normalmente o seu aniversário?
+O que posso fazer por si?
+Qual foi o filme de comédia que mais o fez rir?
+O que é que comeste da última vez?
+O que significa para si a amizade?
+O que é que não gosta no seu namorado/namorado?
+O que é que não gosta no seu cônjuge?
+O que é que faz na vida?
+O que é que não sabe cozinhar, mas quer aprender?
+Como é que tu és?
+Em que é que prefere gastar a maior parte do seu dinheiro?
+De que é que se lembra?
+O que pensa da vida depois da morte?
+O que pensa da Bitcoin?
+O que pensa dos sonhos?
+O que achas que acontece depois da morte?
+O que é considerado traição numa relação?
+Qual é, na tua opinião, a maior invenção e porquê?
+O que é que acha que faz com que um jogo seja bem sucedido?
+O que é que faz normalmente no PC?
+O que faz habitualmente no seu telemóvel?
+O que é que faz habitualmente quando está doente?
+O que costuma comer ao pequeno-almoço?
+O que é que mais valoriza numa amizade?
+O que é que quer fazer?
+O que é que veste na cama?
+A que alimentos é alérgico?
+Que comida teria colocado no seu casamento?
+Em que jogo és o melhor?
+Em que jogo é que é pior?
+Que jogo achas que merece um filme?
+Que jogo costumas jogar no teu telemóvel para passar o tempo?
+Que jogos tem instalados no seu telemóvel?
+Qual é o seu género de jogo preferido?
+O que acontece depois da morte?
+Qual foi o filme de terror que mais o assustou?
+Que instrumento não sabe tocar, mas quer aprender?
+Na sua opinião, o que é uma relação saudável?
+Qual é a melhor coisa que lhe pode acontecer?
+O que é que pode comer todos os dias sem se aborrecer?
+Qual é a melhor desculpa que já usaste para não ires à escola?
+Qual foi a melhor comida que provaste na vida?
+Qual é o melhor jogo que já jogaste?
+Qual é a melhor invenção que mudou o mundo inteiro?
+Qual é o melhor caminho para o teu coração?
+Qual é a sua maior conquista na escola?
+Qual foi a maior partida que alguém lhe pregou?
+Qual foi a maior partida que pregaste a alguém?
+Qual é o jogo mais engraçado que já jogaste?
+Qual é a canção mais engraçada que alguma vez ouviste?
+Qual foi a coisa mais engraçada que lhe aconteceu?
+Qual foi o jogo mais difícil que já jogaste?
+Qual é o menor período de tempo que esteve numa relação? Porquê?
+Há quanto tempo está doente?
+Qual é o sentido da vida?
+Qual é o jogo mais viciante que já jogaste?
+Qual é o maior período de tempo que esteve numa relação? Porquê?
+Qual é o jogo mais irritante que já jogaste?
+Qual é a comida mais deliciosa que alguma vez cozinhou?
+Qual é a coisa mais nojenta que já comeste na tua vida?
+Qual foi a aplicação paga mais cara que comprou e ficou satisfeito com ela?
+Qual foi a coisa mais cara que compraste em toda a tua vida?
+Qual é o jogo mais horrível que já jogaste?
+Qual é o objeto mais importante da sua casa (para além dos seres vivos)?
+Qual foi a maior quantia de dinheiro que gastou num só dia?
+Qual é a decisão mais lamentável da sua vida?
+Qual é o objeto mais valioso que tem em sua casa?
+Qual foi o sonho mais assustador que já tiveste?
+Qual é o jogo mais assustador que já jogaste?
+Qual é a coisa mais assustadora que lhe pode acontecer?
+Qual foi a coisa mais assustadora que já fizeste?
+Qual foi o sonho mais estranho que já tiveste?
+Qual foi o pior acidente que já sofreu?
+Qual é a pior doença que já apanhou?
+Qual é a pior desculpa que já usaste para não ires à escola?
+Qual é a pior comida que já provaste?
+Qual é o pior jogo que já jogaste?
+Qual foi a pior coisa que fizeste na escola?
+O que é demasiado sério para ser objeto de brincadeira?
+Qual é a sua melhor previsão para o ano da primeira criopreservação reversível de um ser humano adulto?
+Qual é o teu jogo de arcada preferido?
+Qual é o teu jogo de tabuleiro preferido?
+Qual é o seu bolo preferido?
+Qual é o seu desenho animado preferido?
+Qual é a sua personagem de desenhos animados preferida?
+Qual é o seu prato barato preferido?
+Qual é a sua história infantil preferida?
+Qual é a sua música de discoteca preferida?
+Qual é a sua cor favorita?
+Qual é a tua cussword favorita?
+Qual é a sua música de condução preferida?
+Qual é a tua canção emocional favorita?
+Qual é o seu prato caro preferido?
+Qual é a sua comida preferida?
+Qual é o seu franchise preferido para jantar?
+Qual é a sua fruta preferida?
+Qual é o teu jogo preferido?
+Qual é o seu jogo favorito para jogar no telemóvel?
+Qual é o teu jogo favorito que gostas de jogar online?
+Qual é a sua aplicação de mensagens instantâneas favorita?
+Qual é o seu trabalho preferido?
+Qual é o seu restaurante local preferido?
+Qual é a tua recordação favorita da escola?
+Qual é o teu filme preferido?
+Qual é a sua citação de filme favorita?
+Qual é a sua sequela de filme preferida?
+Qual é o seu musical preferido?
+Qual é a sua música preferida para relaxar?
+Qual é o teu jogo online preferido?
+Qual é a sua roupa favorita?
+Qual é a tua pessoa favorita que mudou o mundo inteiro?
+Qual é a tua frase favorita de um jogo?
+Qual é o nome do seu restaurante preferido?
+Qual é a tua música rock favorita?
+Qual é o teu jogo de interpretação de papéis preferido?
+Qual é o teu jogo de caixa de areia preferido?
+Qual é o teu cientista preferido e porquê?
+Qual é o teu jogo de tiro favorito?
+Qual é o teu jogo favorito para um jogador?
+Qual é a sua rede social favorita?
+Qual é a sua música favorita?
+Qual é o seu desporto favorito?
+Qual é o seu programa de televisão preferido?
+Qual é o seu vegetal preferido?
+Qual é a sua maior realização?
+Qual é o seu penteado?
+Qual é o seu hobby?
+Qual é a sua fruta menos preferida?
+Qual é o seu jogo menos favorito para jogar no telemóvel?
+Qual é a tua recordação menos favorita da escola?
+Qual é a sua rede social menos favorita?
+Qual é o seu vegetal menos preferido?
+Qual é a história da sua vida?
+Qual é o teu momento mais memorável na escola?
+Qual é a tua memória mais terrível?
+Qual é a sua recordação mais preciosa?
+Qual é o seu nome?
+Qual é a sua opinião sobre Elon Musk?
+Qual é a sua opinião sobre os reality shows?
+Qual é o seu objetivo?
+Que tipo de comida detesta?
+Que tipo de alimentos tenta evitar comer?
+Que tipo de pessoa eras na escola? Nerd, inteligente, etc.
+De que tipo de programas de televisão gosta?
+Que filme nunca desejaria que se tornasse realidade?
+Que filme gostaria que ganhasse vida?
+Qual é o sistema operativo que utiliza no seu PC?
+Em que ou em quem é que pensa mais durante todo o dia?
+Que modelo de telemóvel está a utilizar neste momento?
+Que papel desempenha o amor na sua vida?
+Que música ouves para te motivares?
+Qual é a canção que mais se relaciona com a sua vida?
+Que desporto não sabe jogar, mas quer aprender?
+Que tipo de jogos gosta de jogar com o seu parceiro?
+Qual foi o melhor presente que recebeste no teu aniversário?
+Qual foi a primeira consola de jogos que comprou?
+Qual foi a primeira música que dançou?
+Qual foi a primeira música que dançou com o seu par?
+Qual foi o primeiro jogo de vídeo que jogaste?
+Qual foi o último filme que viu?
+Qual foi o teu feriado favorito?
+Qual era a tua disciplina favorita na escola?
+Qual era a disciplina que menos gostava na escola?
+O que seria um dia perfeito para si?
+O que é que seria importante para os seus amigos mais próximos saberem sobre si?
+Do que é que mais se arrepende de não ter contado a alguém?
+O que é que me recomendaria?
+Qual seria a sua reação se encontrasse um inseto na sua comida?
+O que é que gostaria de saber sobre o futuro distante?
+Qual é o tamanho do teu sapato?
+Quando é que chorou pela última vez?
+Quando foi a última vez que cantaste para alguém?
+Quando jogas jogos em ecrã dividido, com quem costumas jogar?
+Onde é que está?
+De onde é que é?
+Onde é que vive?
+Onde é que prefere ir quando sai à rua?
+Onde é que se vê daqui a 5 anos? Daqui a 10 anos? Daqui a 50 anos?
+Onde é que estuda?
+Onde é que nasceu?
+Onde seriam as suas férias de sonho?
+Qual é a personagem de desenhos animados que mais se assemelha a si?
+Que desenhos animados costumavas ver mais?
+Que jogo costumava jogar na sua infância?
+Que línguas fala?
+Que instrumentos musicais sabes tocar?
+Quem são vocês?
+Com quem preferes jogar?
+Quem é o maior modelo a seguir na sua vida?
+Quem é a personagem de videojogos mais atraente?
+Quem é a sua atriz favorita?
+Quem é o seu ator masculino preferido?
+Quem é o seu cientista menos favorito e porquê?
+Quem foi a tua primeira paixão?
+A quem pediriam para fazer o catering do vosso casamento?
+Quem é que gostaria de ter como convidado para jantar (se tivesse liberdade de escolha)?
+Porque é que joga videojogos?
+Estaria preparado para adotar uma criança?
+Separaria um casal pelas suas próprias razões?
+Trairia o seu parceiro deliberadamente?
+Teria um caso com uma pessoa casada?
+Gostarias de ser famoso?
+Sacrificar-se-ia para salvar outras pessoas?
+O teu antagonista e protagonista de jogo preferido?

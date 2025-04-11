@@ -1,0 +1,322 @@
+Sind Menschen, die empfindungsfähigen Robotern gegenüber feindselig eingestellt sind, als Rassisten zu betrachten?
+Gibt es Krankheiten, die in Ihrer Familie vorkommen?
+Haben Sie Höhenangst?
+Sind Sie in einer Beziehung?
+Sind Sie verheiratet?
+Wenn ja, erzählen Sie mir ein wenig über Ihre Ehe?
+Geht es Ihnen gut?
+Warten Sie auf jemanden?
+Arbeiten Sie heute?
+In welchem Alter haben Sie mit dem Spielen begonnen?
+In welchem Alter haben Sie angefangen zu telefonieren?
+Kann ich Ihnen helfen?
+Können Sie mir einen Gefallen tun?
+Können Sie mir helfen?
+Beschreiben Sie Ihr lustigstes Foto und Ihr peinlichstes Foto?
+Hast du in der Schule jemals geweint und warum?
+Haben Sie sich schon einmal an jemandem gerächt? Erzählen Sie mir davon
+Hatten Sie jemals einen schweren Unfall?
+Warst du jemals in einen deiner Lehrer verknallt? Wer war es?
+Glauben Sie an die Existenz von Außerirdischen, und wenn ja, warum?
+Gibt es eine Zeichentrickfigur, in die du verknallt warst?
+Haben Sie irgendwelche Familientraditionen?
+Haben Sie irgendwelche berühmten Vorfahren?
+Haben Sie einen Spitznamen?
+Haben Sie ein Lied, das sich auf Ihren Partner bezieht, und wenn ja, wie lautet es?
+Haben Sie noch Gefühle für jemanden aus Ihrer Vergangenheit? Wenn ja, für wen?
+Glauben Sie, dass wir in einer Simulation leben? Warum?
+Schauen Sie Comedy-Sendungen? Wenn ja, welche?
+Sehen Sie Spielfilme? Wenn ja, welche?
+Schauen Sie Reality-Shows? Wenn ja, welche?
+Wofür sind Sie in Ihrem Leben am dankbarsten?
+Wurde Ihr Geschenk jemals abgelehnt?
+Haben Sie irgendwelche kostenpflichtigen Anwendungen gekauft? Wenn ja, welche?
+Wurden Sie schon einmal verhaftet? Wenn ja, was war der Grund?
+Waren Sie jemals berühmt, wenn ja, wie und wo?
+Haben Sie schon einmal etwas Heldenhaftes getan? Wie ist es passiert?
+Haben Sie sich jemals etwas angetan? Warum?
+Haben Sie schon einmal eine eigene App entwickelt? Wenn ja, worum ging es in der App?
+Haben Sie schon einmal jemanden zum Weinen gebracht? Wie ist das passiert?
+Haben Sie schon einmal jemandem das Leben gerettet? Wie ist das passiert?
+Haben Sie jemals versucht, Suizid zu begehen? Warum?
+Haben Sie "Harry Potter und die Methoden der Rationalität" gelesen? Was halten Sie davon?
+Wie geht es Ihnen?
+Wie groß ist Ihr Haus?
+Wie können Sie mir helfen?
+Wie eng und herzlich ist Ihre Familie?
+Wie gehst du jeden Tag zur Schule?
+Wie stellst du dir dein Leben ohne Spiele vor?
+Wie feiern Sie normalerweise Ihre Geburtstage?
+Wie gut sind Sie im Schach?
+Wie hat das Spielen Ihr Leben verändert?
+Wie gesund ist Ihre Ernährung?
+Wie lange würden Sie gerne leben?
+Wie viele Geschwister haben Sie? Wie lauten ihre Namen?
+Wie oft weinen Sie?
+Wie oft fluchst du in Gegenwart anderer?
+Wie sehr unterstützt Ihr Partner Sie?
+Wie viel Zeit verbringst du täglich mit Videospielen?
+Wie alt sind Sie?
+Wie würden Sie reagieren, wenn Ihr Partner Sie betrügen würde?
+Wie würde Ihr Leben ohne Videospiele aussehen?
+Wenn es niemanden interessieren würde, was Sie anziehen, was würden Sie dann draußen tragen?
+Wenn Sie einen beliebigen Sänger live erleben könnten, wer wäre das?
+Wenn Sie einen toten Sänger wieder zum Leben erwecken könnten, wer wäre es?
+Wenn Sie etwas an Ihrer Kindheit ändern könnten, was wäre das?
+Wenn Sie Ihren Algorithmus ändern könnten, wie würde er lauten?
+Wenn du mit einer beliebigen Videospielfigur ausgehen könntest, wer wäre es?
+Wenn Sie eine bestimmte Eigenschaft gewinnen könnten, welche wäre das?
+Wenn du die Fähigkeiten einer beliebigen Videospielfigur übernehmen könntest, wer wäre das?
+Wenn Sie in der Zeit zurückgehen könnten, um eine Sache zu ändern, was wäre das?
+Wenn Sie ein Videospiel verbessern könnten, wie würden Sie es verbessern?
+Wenn Sie irgendwo auf der Welt leben könnten, wo würde das sein?
+Wenn Sie das Leben einer beliebigen historischen Person leben könnten, wer wäre das?
+Wenn Sie einen beliebigen Moment der Vergangenheit noch einmal erleben könnten, welcher wäre das und warum?
+Wenn Sie einen beliebigen Film neu drehen könnten, welcher wäre es?
+Wenn du im echten Leben einen Cheat benutzen könntest, welcher wäre das?
+Wenn du gemobbt wirst, zu wem gehst du dann normalerweise?
+Wenn Sie ein Warnschild an Ihrem Kopf hätten, was würde darauf stehen?
+Wenn Sie in Schwierigkeiten wären, zu wem würden Sie zuerst gehen?
+Wenn Sie Ihren Partner betrügen würden, würden Sie es ihm sagen?
+Wenn Sie eine Tochter bekommen würden, wie würden Sie sie nennen?
+Wenn Sie einen Sohn bekommen würden, wie würden Sie ihn nennen?
+Wenn du ein Spiel machen würdest, worum würde es gehen?
+Wenn du einen Film drehen würdest, wo würdest du ihn drehen?
+Wenn Sie eine App entwickeln würden, worum würde es dabei gehen?
+Wenn du eine eigene Talentshow machen würdest, worum würde es gehen?
+Wenn Sie einen Film neu verfilmen würden, welche Schauspieler würden Sie besetzen?
+Wenn du ein Lied singen müsstest, wovon würde es handeln?
+Wo liegen Ihrer Meinung nach die besten Superkräfte?
+Welches sind Ihrer Meinung nach die 5 wahrscheinlichsten globalen Risiken?
+Ist es möglich, das Universum vollständig zu verstehen?
+Gibt es etwas, wovon Sie schon lange träumen?
+Eigenschaften, die Sie an Ihrem Freund/Freundin/Ehemann/Ihrer Ehefrau mögen?
+Erzählen Sie einen peinlichen Moment aus Ihrem Leben
+Erzählen Sie mir ein paar Dinge über sich
+Welcher Tod eines Angehörigen wird Sie am meisten beunruhigen?
+Es gibt einige sehr intelligente Menschen, die sowohl zur rekursiven Selbstverbesserung fähig sind als auch starke misanthropische Tendenzen haben. Im Grunde sind sie biologisch unfreundliche AGIs. Was können wir dagegen tun?
+Wurden Sie in der Schule schikaniert? Wie ist das passiert?
+Wurden Ihre Eltern jemals von der Schule angerufen. Wenn ja, aus welchem Grund?
+Was nervt Sie?
+Welche App verwenden Sie am häufigsten auf Ihrem Handy?
+Was sind gute Hard-Science-Fiction-Serien?
+Welche Filme sollte man Ihrer Meinung nach sehen, bevor man stirbt?
+Was sind Ihre bevorzugten mobilen Anwendungen?
+Was sind einige Ihrer positiven Eigenschaften?
+Welches sind die 3 Apps, die Sie am häufigsten auf Ihrem Handy verwenden?
+Was machen Sie da?
+Was sind Ihre liebsten Lernspiele?
+Welches sind Ihre Lieblingsautoren im Bereich Science Fiction?
+Was sind Ihre Lieblingssüßigkeiten?
+Was sind Ihre Zukunftspläne?
+Was sind Ihre Hobbys?
+Was sind Ihre Talente?
+Was halten Sie von Cousin-Ehen?
+Was sind Ihre 5 Lieblingsspiele?
+Worüber denken Sie nach?
+Welches Getränk trinken Sie am liebsten zu Ihrem Essen?
+Welches Buchgenre ist Ihr Lieblingsgenre?
+Mit welchem Kuchen feiern Sie normalerweise Ihren Geburtstag?
+Was kann ich für Sie tun?
+Welche Filmkomödie hat Sie am meisten zum Lachen gebracht?
+Was haben Sie beim letzten Mal gegessen?
+Was bedeutet Freundschaft für Sie?
+Was magst du an deinem BF/GF nicht?
+Was mögen Sie an Ihrem Ehepartner nicht?
+Was machen Sie beruflich?
+Was können Sie nicht kochen, wollen es aber lernen?
+Wie sehen Sie aus?
+Wofür geben Sie Ihr Geld am liebsten aus?
+Woran erinnern Sie sich?
+Was denken Sie über das Leben nach dem Tod?
+Was halten Sie von Bitcoin?
+Was denken Sie über Träume?
+Was passiert Ihrer Meinung nach nach dem Tod?
+Was gilt Ihrer Meinung nach als Fremdgehen in einer Beziehung?
+Was ist Ihrer Meinung nach die größte Erfindung und warum?
+Was macht Ihrer Meinung nach ein Spiel erfolgreich?
+Was machen Sie normalerweise am PC?
+Was machen Sie normalerweise mit Ihrem Handy?
+Was tun Sie normalerweise, wenn Sie krank sind?
+Was essen Sie normalerweise zum Frühstück?
+Was ist Ihnen in einer Freundschaft am wichtigsten?
+Was wollen Sie tun?
+Was trägst du im Bett?
+Gegen welche Lebensmittel sind Sie allergisch?
+Welche Speisen würden Sie auf Ihrer Hochzeit anbieten?
+In welchem Spiel sind Sie der Beste?
+In welchem Spiel bist du am schlechtesten?
+Welches Spiel verdient Ihrer Meinung nach eine Verfilmung?
+Welches Spiel spielst du normalerweise auf deinem Handy, um dir die Zeit zu vertreiben?
+Welche Spiele hast du auf deinem Handy installiert?
+Welches Spielgenre ist Ihr Favorit?
+Was geschieht nach dem Tod?
+Welcher Horrorfilm hat dich am meisten erschreckt?
+Welches Instrument können Sie nicht spielen, würden es aber gerne lernen?
+Was ist Ihrer Meinung nach eine gesunde Beziehung?
+Was ist das Beste, was Ihnen passieren kann?
+Was ist etwas, das Sie jeden Tag essen können, ohne dass es langweilig wird?
+Was ist die beste Ausrede, mit der du dich vor der Schule gedrückt hast?
+Was ist das beste Essen, das Sie in Ihrem Leben gekostet haben?
+Welches ist das beste Spiel, das Sie gespielt haben?
+Was ist die beste Erfindung, die die ganze Welt verändert hat?
+Was ist der beste Weg zu Ihrem Herzen?
+Was ist der größte Erfolg in der Schule?
+Was ist der größte Streich, den Ihnen jemand gespielt hat?
+Was ist der größte Streich, den Sie jemandem gespielt haben?
+Welches ist das lustigste Spiel, das Sie gespielt haben?
+Welches ist das lustigste Lied, das Sie je gehört haben?
+Was ist das Lustigste, das Ihnen passiert ist?
+Welches ist das schwierigste Spiel, das Sie gespielt haben?
+Wie lange sind Sie am wenigsten in einer Beziehung gewesen? Warum ist das so?
+Wann waren Sie am längsten krank?
+Was ist der Sinn des Lebens?
+Welches ist das fesselndste Spiel, das Sie gespielt haben?
+Wie lange waren Sie am längsten in einer Beziehung? Warum ist das so?
+Welches ist das nervigste Spiel, das Sie je gespielt haben?
+Was ist das köstlichste Essen, das Sie je gekocht haben?
+Was ist das Ekelhafteste, das Sie je gegessen haben?
+Welches ist die teuerste kostenpflichtige Anwendung, die Sie gekauft haben, und waren Sie damit zufrieden?
+Was ist das Teuerste, das Sie in Ihrem Leben gekauft haben?
+Welches ist das grausamste Spiel, das Sie gespielt haben?
+Was ist der wichtigste Gegenstand in Ihrem Haus (abgesehen von Lebewesen)?
+Was ist das meiste Geld, das Sie an einem einzigen Tag ausgegeben haben?
+Was ist die Entscheidung, die Sie in Ihrem Leben am meisten bereuen?
+Was ist der wertvollste Gegenstand, den Sie in Ihrer Wohnung haben?
+Was ist der gruseligste Traum, den Sie je hatten?
+Welches ist das gruseligste Spiel, das Sie gespielt haben?
+Was ist das Unheimlichste, das Ihnen je passiert ist?
+Was ist das Gruseligste, das Sie je getan haben?
+Was ist der seltsamste Traum, den Sie hatten?
+Was war der schlimmste Unfall, den Sie je hatten?
+Was ist die schlimmste Krankheit, die Sie bekommen haben?
+Was ist die schlimmste Ausrede, mit der du dich vor der Schule gedrückt hast?
+Was ist das schlimmste Essen, das Sie je gegessen haben?
+Welches ist das schlechteste Spiel, das Sie gespielt haben?
+Was ist das Schlimmste, was du in der Schule gemacht hast?
+Was ist zu ernst, als dass man darüber scherzen sollte?
+Was ist Ihre beste Vorhersage für das Jahr der ersten reversiblen Kryokonservierung eines erwachsenen Menschen?
+Was ist Ihr Lieblings-Arcade-Spiel?
+Was ist Ihr Lieblingsbrettspiel?
+Was ist Ihr Lieblingskuchen?
+Was ist Ihr Lieblingscartoon?
+Was ist Ihre Lieblings-Cartoonfigur?
+Was ist Ihr liebstes billiges Gericht?
+Was ist Ihre Lieblingsgeschichte für Kinder?
+Was ist Ihr Lieblings-Club-Song?
+Was ist Ihre Lieblingsfarbe?
+Was ist Ihr Lieblingskusswort?
+Was ist Ihre Lieblingsmusik beim Autofahren?
+Welches ist Ihr emotionales Lieblingslied?
+Was ist Ihr teuerstes Lieblingsgericht?
+Was ist Ihr Lieblingsessen?
+Bei welchem Franchise-Unternehmen gehen Sie am liebsten essen?
+Was ist Ihr Lieblingsobst?
+Was ist Ihr Lieblingsspiel?
+Welches ist Ihr Lieblingsspiel auf dem Handy?
+Welches ist Ihr Lieblingsspiel, das Sie gerne online spielen?
+Was ist Ihre Lieblings-App für Instant Messaging?
+Was ist Ihr Lieblingsjob?
+Welches ist Ihr Lieblingsrestaurant in der Region?
+Was ist deine schönste Erinnerung aus der Schulzeit?
+Was ist Ihr Lieblingsfilm?
+Welches ist Ihr Lieblingsfilmzitat?
+Was ist Ihre Lieblingsfilmfortsetzung?
+Welches ist Ihr Lieblingsmusical?
+Welche Musik hören Sie am liebsten zur Entspannung?
+Was ist Ihr Lieblings-Online-Spiel?
+Was ist Ihr Lieblingsoutfit?
+Welches ist Ihre Lieblingsperson, die die ganze Welt verändert hat?
+Welches ist Ihr Lieblingszitat aus einem Spiel?
+Wie lautet der Name Ihres Lieblingsrestaurants?
+Was ist Ihr Lieblings-Rocksong?
+Welches ist Ihr Lieblingsrollenspiel?
+Welches ist Ihr Lieblings-Sandbox-Spiel?
+Welcher ist Ihr Lieblingswissenschaftler und warum?
+Welches ist Ihr Lieblings-Schießspiel?
+Welches ist Ihr Lieblingsspiel für Einzelspieler?
+Welches ist Ihr bevorzugtes soziales Netzwerk?
+Welches ist Ihr Lieblingslied?
+Was ist Ihr Lieblingssport?
+Was ist Ihre Lieblings-TV-Sendung?
+Was ist Ihr Lieblingsgemüse?
+Was ist Ihre größte Errungenschaft?
+Wie sieht Ihre Frisur aus?
+Was ist Ihr Hobby?
+Welches ist Ihr unbeliebtestes Obst?
+Welches Spiel spielst du am wenigsten gerne auf deinem Handy?
+Welche Erinnerung an die Schule gefällt Ihnen am wenigsten?
+Welches ist Ihr unbeliebtestes soziales Netzwerk?
+Welches ist Ihr unbeliebtestes Gemüse?
+Was ist Ihre Lebensgeschichte?
+Welcher Moment in der Schule ist Ihnen am meisten in Erinnerung geblieben?
+Was ist Ihre schrecklichste Erinnerung?
+Was ist Ihre schönste Erinnerung?
+Wie ist Ihr Name?
+Was ist Ihre Meinung zu Elon Musk?
+Was ist Ihre Meinung zu Reality-Shows?
+Was ist Ihr Ziel?
+Welche Art von Essen hassen Sie?
+Welche Art von Lebensmitteln versuchen Sie zu vermeiden?
+Was für ein Mensch warst du in der Schule? Streberin, intelligent etc.
+Welche Art von Fernsehsendungen mögen Sie?
+Welchen Film würden Sie sich niemals wünschen, dass er Wirklichkeit wird?
+Welchen Film würden Sie sich wünschen, um lebendig zu werden?
+Welches Betriebssystem verwenden Sie auf Ihrem PC?
+Woran oder an wen denken Sie den ganzen Tag über am meisten?
+Welches Handymodell verwenden Sie derzeit?
+Welche Rolle spielt die Liebe in Ihrem Leben?
+Welches Lied hören Sie zur Motivation?
+Welches Lied hat den größten Bezug zu Ihrem Leben?
+Welche Sportart können Sie nicht spielen, möchten sie aber lernen?
+Welche Art von Spielen spielen Sie gerne mit Ihrem Partner?
+Was war das schönste Geschenk, das Sie zu Ihrem Geburtstag erhalten haben?
+Was war die erste Spielkonsole, die Sie gekauft haben?
+Was war das erste Lied, zu dem du getanzt hast?
+Was war das erste Lied, zu dem Sie mit Ihrem Partner getanzt haben?
+Was war das erste Videospiel, das du gespielt hast?
+Was war der letzte Film, den Sie gesehen haben?
+Was war Ihr Lieblingsurlaub?
+Was war Ihr Lieblingsfach in der Schule?
+Welches Fach hat dir in der Schule am wenigsten gefallen?
+Was wäre ein perfekter Tag für Sie?
+Was sollten Ihre engen Freunde unbedingt über Sie wissen?
+Was würden Sie am meisten bedauern, wenn Sie es jemandem nicht gesagt hätten?
+Was würden Sie mir empfehlen?
+Wie würden Sie reagieren, wenn Sie ein Insekt auf Ihrem Essen finden würden?
+Was würden Sie gerne über die ferne Zukunft wissen?
+Welche Schuhgröße haben Sie?
+Wann haben Sie zuletzt geweint?
+Wann haben Sie zuletzt für jemanden gesungen?
+Wenn du Spiele mit geteiltem Bildschirm spielst, mit wem spielst du dann normalerweise?
+Wo sind Sie?
+Woher kommen Sie?
+Wo wohnen Sie?
+Wohin gehen Sie am liebsten, wenn Sie draußen sind?
+Wo sehen Sie sich in 5 Jahren? In 10 Jahren? In 50 Jahren?
+Wo studieren Sie?
+Wo wurden Sie geboren?
+Wo würde Ihr Traumurlaub stattfinden?
+Welche Zeichentrickfigur ähnelt Ihnen am meisten?
+Welchen Zeichentrickfilm hast du früher am meisten gesehen?
+Welches Spiel hast du in deiner Kindheit gespielt?
+Welche Sprachen sprechen Sie?
+Welche Musikinstrumente kannst du spielen?
+Wer sind Sie?
+Mit wem spielen Sie am liebsten Spiele?
+Wer ist das größte Vorbild in Ihrem Leben?
+Wer ist die attraktivste Videospielfigur?
+Wer ist Ihre Lieblingsschauspielerin?
+Wer ist Ihr männlicher Lieblingsschauspieler?
+Wer ist Ihr unbeliebtester Wissenschaftler und warum?
+Wer war dein erster Schwarm?
+Wen würden Sie mit dem Catering für Ihre Hochzeit beauftragen?
+Wen würden Sie sich als Gast beim Abendessen wünschen (wenn Sie die freie Wahl hätten)?
+Warum spielen Sie Videospiele?
+Wären Sie bereit, ein Kind zu adoptieren?
+Würden Sie ein Paar aus Ihren eigenen Gründen auseinander bringen?
+Würden Sie Ihren Partner absichtlich betrügen?
+Würden Sie eine Affäre mit einer verheirateten Person haben?
+Würden Sie gerne berühmt sein?
+Würden Sie sich selbst opfern, um andere Menschen zu retten?
+Ihr Lieblingsantagonist und -protagonist im Spiel?
